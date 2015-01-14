@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6F3C734-3750-4A2A-B7B5-C25295029411</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iTunes Search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3CB36788963064468461A001123588AB69C231CC</key>
+		<string>https://github.com/brandond424/itunes_search.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iTunes Search.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3CB36788963064468461A001123588AB69C231CC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brandond424/itunes_search.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3CB36788963064468461A001123588AB69C231CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3CB36788963064468461A001123588AB69C231CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iTunes%20Search</string>
+		</dict>
+	</array>
+</dict>
+</plist>
